@@ -47,10 +47,12 @@ pip install -r requirements.txt
 * These are two libraries needed for connecting Python with Udacity.
 
 ```bash
-pip install -r requirements.txt
+pip install python-engineio==3.13.2
+
+pip install python-socketio==4.6.1
 ```
 
-## STEP 04:
+## STEP 05:
 Now to start the drive, run the following command:
 
 
