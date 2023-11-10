@@ -42,7 +42,13 @@ Install the requirements
 ```bash
 pip install -r requirements.txt
 ```
+## STEP 04:
+* Install the library in the issue.txt file
+* These are two libraries needed for connecting Python with Udacity.
 
+```bash
+pip install -r requirements.txt
+```
 
 ## STEP 04:
 Now to start the drive, run the following command:
